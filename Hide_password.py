@@ -1,4 +1,4 @@
-import getpass
+run import getpass
 
 user = getpass.getuser()
 while True:
